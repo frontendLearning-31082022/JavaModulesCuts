@@ -1,0 +1,1 @@
+realtime log current method of choosed thread to analyze execution time of app. Also to analyze various info of app exec
